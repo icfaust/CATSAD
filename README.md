@@ -1,7 +1,9 @@
 # CATSAD
 China Academic Traffic Sign Amalgamated Dataset
 
-![CATSAD](./catsad.svg)
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/icfaust/CATSAD/blob/main/catsad.svg"> 
+</p>
 
 This repository is a combination of 3 Chinese road sign datasets from various Chinese academics.  Due to legal limitations within the People's Republic of China, acquiring and publishing such data is forbidden without certain approvals and licenses.  By leveraging these publically published works done by others in China, such legal problems are avoided and a more complete dataset for traffic sign recognition is possible. This dataset contains more than 50,000 images of more than 60 types of Chinese roadsigns extracted from 3+ other traffic sign recognition and detection datasets.  This includes non-standard versions of some traffic signs to better represent the real-world driving experience within China. 
 
