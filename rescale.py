@@ -33,10 +33,10 @@ def rescale(size=32, outfolder='data', images=200):
     histdata = histdata[idx]
 
     try:
-     	os.makedirs(outfolder)
+        os.makedirs(outfolder)
     except FileExistsError:
-	#already exists	
-	pass
+        #already exists	
+        pass
 
     for i in categories:
     
