@@ -1,5 +1,3 @@
-Explanation of data sources and methodology.
-
 The documentation in this folder links the images contained in CATSAD to their original data sets. This traceability is provided for the purpose of showing compliance with all rules and regulations of the People’s Republic of China. CATSAD does not contain materially modified or enhanced images, and the data set images are only extracted sub-images from the publicly-available originals. In some cases rotations of the images were made. As such, all ownership and legal liability of the individual images are retained by the various original authors.
 
 The prescribed sign ground truth locations from the original data sets have been corrected for errors and brought to similar qualitative standards. Additional signs have also been added which were overlooked in their originals. However, these improvements do not signify that CATSAD is perfect or complete and any errors are up to the user to report and correct. Updates to the data set may occur at any time, but any future changes will be documented. The source location of each image in CATSAD from each data set has been given in format particular to the underlying data set. This information is stored in dataset*groundtruth.txt .  A guide to parsing each of these files is given in a list below.
@@ -32,13 +30,13 @@ Beijing Jiaotong University, LinLin Huang http://www.nlpr.ia.ac.cn/pal/trafficda
   - ground truth file format: original image name; xmin; ymin; xmax; ymax
 
 4. 2015 China fuzzy image processing competition 交通标识图像增强挑战赛初赛
-Xi’an Jiaotong University MORE INFO NECESSARY, find zhangjm’s personal website
+NSFC / Xi’an Jiaotong University http://ccvai.xjtu.edu.cn/ http://pan.baidu.com/s/1jG3upoU
 
   - image name format: 12 + 3 digit video number + 2 digit frame number + 3 digit number of sign in image
   - ground truth file format: original video number; original frame number; xmin; ymin; xmax; ymax
 
 5. 2015 China traffics sign degradation video training set 交通标识退化视频训练集
-Xi’an Jiaotong University MORE INFO NECESSARY
+NSFC / Xi’an Jiaotong University http://ccvai.xjtu.edu.cn/ http://pan.baidu.com/s/1jG3upoU
 
   - image name format: 12 + 3 digit video number + 2 digit frame number + 3 digit number of sign in image
   - ground truth file format: original video number; original frame number; xmin; ymin; xmax; ymax
