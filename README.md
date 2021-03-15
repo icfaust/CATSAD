@@ -15,4 +15,4 @@ A python code (resample.py) converts the raw dataset (in raw/) into a form frien
 
 Documentation connecting to the underlying datasets can be found under the folder documentation/. This details the source and location of each traffic sign image. Any academic use of this dataset should properly reference the various authors listed there. They were vital in creating and publishing their datasets publically which were needed to generate CATSAD. As such, the original publishers should retain all attribution and ownership.
 
-This dataset is originally published in Spring 2021. Any help in improving, correcting, or diversifying it is greatly appreciated. The dataset can be found on github at https://github.com/icfaust/CATSAD
+This dataset was originally published in Spring 2021. Any help in improving, correcting, or diversifying it is greatly appreciated. The dataset can be found on github at https://github.com/icfaust/CATSAD
