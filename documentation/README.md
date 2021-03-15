@@ -5,8 +5,7 @@ The prescribed sign ground truth locations from the original data sets have been
 The sign type categories follow the convention used in the 100k Tsinghua-Tencent data set and can be referenced from their website under data  set 0. Corrections have also been made from the original classifications. Some images do not fall under any category, and are stored under the ‘other’ folder.  The sign types have expanded to contain certain common signs that are not listed in the original convention. Any use, reproduction, or derivative work dependent on CATSAD should reference each of the 7 following data sets listed below.
 
 
-0. Tencent Tsinghua 100k data set 
-
+0. Tencent Tsinghua 100k data set
 **CVPR 2016 Traffic-Sign Detection and classification in the wild** https://cg.cs.tsinghua.edu.cn/traffic-sign/
 
   - image name format: 00 + 5 digit image number + 3 digit number of sign in image 
@@ -18,8 +17,8 @@ Beijing Jiaotong University, LinLin Huang http://www.nlpr.ia.ac.cn/pal/trafficda
   - image name format: 10 + 8 digit number in corresponding to the order of the ground truth file
   - ground truth file format: original image name; xmin; ymin; xmax; ymax
 
-2. (A Real-time Chinese Traffic Sign Detection Algorithm)
-CCTSDB, CSUST China Traffic Sign Database https://github.com/csust7zhangjm/CCTSDB
+2. CCTSDB, CSUST China Traffic Sign Database
+**A Real-time Chinese Traffic Sign Detection Algorithm** https://github.com/csust7zhangjm/CCTSDB
 
   - image name format: 11 + 5 digit number in corresponding to the order of the ground truth file + 3 digit number of sign in image
   - ground truth file format: original image name; xmin; ymin; xmax; ymax
