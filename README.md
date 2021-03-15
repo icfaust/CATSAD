@@ -21,6 +21,7 @@ This dataset was originally published in Spring 2021. Any help in improving, cor
 
 <p align="center" width="100%">
     <img width="33%" src="./figures/CATSADFigure1.png">
+    
     Figure 1) CATSAD Cumulative Distribution Function
 </p>
 
@@ -28,6 +29,7 @@ This dataset was originally published in Spring 2021. Any help in improving, cor
 
 <p align="center" width="100%">
     <img width="33%" src="./figures/CATSADFigure2.png">
+    
     Figure 2) Guide for number of available sign types with a minimum number of images
 </p>
 
