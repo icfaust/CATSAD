@@ -19,7 +19,4 @@ This dataset was originally published in Spring 2021. Any help in improving, cor
 
 -----------------------------------------
 
-<p align="center" width="100%">
-    <img width="50%" src="./figures/CATSADFigure1.png" />
-    <img width="50%" src="./figures/CATSADFigure2.png" />
-</p>
+![alt-text-1](./figures/CATSADFigure1.png "title-1") ![alt-text-2](./figures/CATSADFigure2.png "title-2")
