@@ -2,7 +2,7 @@
 China Academic Traffic Sign Amalgamated Dataset
 
 <p align="center" width="100%">
-    <img width="33%" src="./catsad.svg"> 
+    <img width="33%" src="./figures/catsad.svg"> 
 </p>
 
 -----------------------------------------
