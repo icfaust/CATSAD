@@ -7,7 +7,7 @@ China Academic Traffic Sign Amalgamated Dataset
 
 -----------------------------------------
 
-CATSAD is a Chinese traffic sign recognition meta-dataset. It contains greater than 69,000 classifiable raw images of Chinese traffic signs in greater than 200 categories. These images have been sampled from seven different academic detection and recognition datasets published by Chinese academia. The ability to apply modern classification algorithms to a useful number of sign types is only reasonably realizable via their combination. CATSAD is a not a benchmark, but is a window to further computer vision research in China.
+CATSAD is a Chinese traffic sign recognition meta-dataset. It contains greater than 69,000 classifiable raw images of Chinese traffic signs in greater than 200 categories. These images have been sampled from seven different academic detection and recognition datasets published by Chinese academia. The ability to apply modern classification algorithms to a useful number of sign types is only possible via their combination. CATSAD is a not a benchmark, but is a window to further computer vision research in China.
 
 CATSAD is greatly inspired by the German GTSRB and American LISA data benchmarks. The qualitative nature and number of images are of a similar order of magnitude.  The images are of varying size (with statistics shown in figure 1) with a square aspect ratio. The images are of real-world traffic signs at various angles in various lighting scenarios. 
 
