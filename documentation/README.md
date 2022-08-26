@@ -44,7 +44,7 @@ NSFC / Xi’an Jiaotong University http://ccvai.xjtu.edu.cn/ http://pan.baidu.co
 6. TrafficSignData_Norm
 Vision and Cognition Lab (VCL), Department of printing and packaging, Wuhan University https://github.com/jizhongxun12306/TrafficSignData_Norm
 
-  - image name format: 13 + 2 digit data set sign number + 3 digit image number + 2 digit sign number in image
+  - image name format: 13 + 2 digit data set sign number + 3 digit image number + 3 digit sign number in image
   - ground truth file format: original folder number; original image number; xmin; ymin; xmax; ymax
 
 7. SODA10M Dataset
