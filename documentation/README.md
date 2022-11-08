@@ -46,3 +46,9 @@ Vision and Cognition Lab (VCL), Department of printing and packaging, Wuhan Univ
 
   - image name format: 13 + 2 digit data set sign number + 3 digit image number + 2 digit sign number in image
   - ground truth file format: original folder number; original image number; xmin; ymin; xmax; ymax
+
+7. SODA10M Dataset
+**SODA10M: A Large-Scale 2D Self/Semi-Supervised Object Detection Dataset for Autonomous Driving** Noah's Ark Lab, Huawei Technologies https://soda-2d.github.io/
+
+  - image name format: 14 + 0 for train, 1 for val, 2 for test + 6 digit data set image number + 2 digit sign number in image
+  - ground truth file format: original image name; xmin; ymin; xmax; ymax
